@@ -1,7 +1,7 @@
-# Chat-App
 
-Using NodeJs+Javascript+html+css
 
-Here is screenshot:
-![Screenshot from 2020-09-08 00-21-10](https://user-images.githubusercontent.com/56189781/92412359-361dbc80-f169-11ea-9f12-6f863877d1d7.png)
 
+
+[Click Here](https://sandeepkumar-chat-app.herokuapp.com/) to view.
+# Chat -App
+Here is screenshot:![chat](https://user-images.githubusercontent.com/56189781/151951142-02f75632-b5ae-4ad6-8160-65c71a46b6a2.png)
